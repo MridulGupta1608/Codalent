@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Codalent/static/css/main.d692b53d.css",
+    "main.js": "/Codalent/static/js/main.99393260.js",
+    "static/media/laptop.png": "/Codalent/static/media/laptop.4c61762d48f24fd4f95d.png",
+    "static/media/pc.jpeg": "/Codalent/static/media/pc.5f6c8b0f827156cae821.jpeg",
+    "static/media/pc1.jpeg": "/Codalent/static/media/pc1.41f86880e0903cdb5cd9.jpeg",
+    "index.html": "/Codalent/index.html",
+    "main.d692b53d.css.map": "/Codalent/static/css/main.d692b53d.css.map",
+    "main.99393260.js.map": "/Codalent/static/js/main.99393260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d692b53d.css",
+    "static/js/main.99393260.js"
+  ]
+}
